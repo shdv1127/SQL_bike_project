@@ -8,7 +8,7 @@ Next, I wanted to know if there was an overall difference in average ride length
 At this point, I dove deeper into the data to see what trends emerged on different days of the week. For example, I wanted to know if there were more casual riders during weekdays or weekends, and also what times of day (morning, afternoon, evening) were the most popular. 
 
 I would have liked to have more specific information about identifying repeat casual riders, so these users could be more accurately targeted. Depending on hoy many times a month they are riding, it could be easy to convince these casual riders that a membership is the more logical and economical option. They could also use the service more often and for shorter trips at their convenience.   
-\*
+*/
 
 
 #A)
